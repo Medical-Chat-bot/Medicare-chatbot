@@ -1,4 +1,4 @@
-This is medical chat bot made using LLM
+<h2>Al Medical Chatbot using RAG (MediBot)</h2>
 
 
 Project Layout:
